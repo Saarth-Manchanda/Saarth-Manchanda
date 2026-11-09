@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=200&section=header&text=Saarth-Manchanda&fontSize=48&fontColor=00FF41&fontAlignY=38&desc=root@kali:~%23%20whoami&descSize=18&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=200&section=header&text=Saarth-Manchanda&fontSize=48&fontColor=20C20E&fontAlignY=38&desc=root@kali:~%23%20whoami&descSize=18&descAlignY=60)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=800&color=00FF41&background=0D111700&center=true&vCenter=true&width=600&lines=%3E+initializing+session...;%3E+scraping+the+web+%28ethically%29;%3E+learning+pandas+%26+JavaScript;%3E+access+granted)](https://git.io/typing-svg)
 
